@@ -1,0 +1,1 @@
+Smurf Framework is a Service Oriented Framework for PHP, Built by James F. Roncesvalles under Kal Skills Academie. This project is inteded for project-ecommerce evaluation. You can use this freely as you want. For Instance you can send Email @ JamesRoncy13@gmail.com. This Framework is under maintenance and only developd within 2 days. Happy Coding.
