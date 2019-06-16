@@ -1,3 +1,5 @@
 <?php
 
-$routes = array();
+$routes = array(
+    "api/product" => "DELETE ProductService/AddProduct",
+);

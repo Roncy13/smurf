@@ -44,8 +44,6 @@
 		}
 		else {
 			parse_str(file_get_contents('php://input'), $body);
-			print_r($body);
-			exit;
 		}
 
 		foreach($routes as $key => $value) {
